@@ -1,0 +1,18 @@
+---
+title: "1st Template"
+author: "CWEN"
+date: "January 27, 2019"
+output: html_document
+---
+
+## Abstract 
+
+## Intro
+
+## Preprocessing Data
+
+## Analysis
+
+## Visiualization 
+
+## Discussion
